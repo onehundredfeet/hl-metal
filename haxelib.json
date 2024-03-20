@@ -1,0 +1,11 @@
+{
+	"name" : "h-metal",
+	"url" : "https://github.com/onehundredfeet/h-metal",
+	"license" : "MIT",
+	"contributors" : ["onehundredfeet"],
+	"description" : "Metal graphics subset for Heaps on Hashlink",
+	"version" : "0.1.0",
+	"releasenote" : "",
+	"classPath": "lib/",
+	"dependencies": { "hl-idl" :""}
+}

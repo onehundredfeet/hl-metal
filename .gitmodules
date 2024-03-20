@@ -1,0 +1,6 @@
+[submodule "ext/hl-idl"]
+	path = ext/hl-idl
+	url = https://github.com/onehundredfeet/hl-idl.git
+[submodule "ext/metal-cpp-cmake"]
+	path = ext/metal-cpp-cmake
+	url = https://github.com/LeeTeng2001/metal-cpp-cmake.git
